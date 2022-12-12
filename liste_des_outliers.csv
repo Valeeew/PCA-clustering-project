@@ -1,0 +1,7 @@
+Zone,Population,Disponibilité intérieure Milliers de tonnes,Nourriture Milliers de tonnes,Importations - Quantité Milliers de tonnes,Exportations - Quantité Milliers de tonnes,Pertes Milliers de tonnes,Production Milliers de tonnes,Prix de Production (USD),Variation de stock Milliers de tonnes,Traitement Milliers de tonnes,Disponibilité alimentaire (Kcal/personne/jour) Kcal/personne/jour,Disponibilité alimentaire en quantité (kg/personne/an) kg,Disponibilité de matière grasse en quantité (g/personne/jour) g/personne/jour,Disponibilité de protéines en quantité (g/personne/jour) g/personne/jour,Résidus Milliers de tonnes,Autres utilisations (non alimentaire) Milliers de tonnes,Aliments pour animaux Milliers de tonnes,Alimentation pour touristes Milliers de tonnes,outliers
+Brésil,207833823.0,9982.0,9982.0,3.0,4223.0,333.6,14201.0,0.0,0.0,0.0,204.0,48.03,15.34,15.68,0.0,0.0,0.0,0.0,-1
+Chine - RAS de Hong-Kong,7306322.0,280.0,391.0,907.0,663.0,2.2,24.0,0.0,-12.0,0.0,210.0,53.51,12.7,22.26,-125.0,32.0,0.0,-18.0,-1
+"Chine, continentale",1421021791.0,18161.0,17518.0,452.0,576.0,643.0,18236.0,1681.4,-50.0,1.0,59.0,12.33,4.67,3.96,-1.0,0.0,0.0,0.0,-1
+Inde,1338676785.0,3661.0,2965.0,0.0,4.0,695.0,3545.0,0.0,-119.0,0.0,7.0,2.22,0.47,0.75,0.0,0.0,0.0,0.0,-1
+Japon,127502725.0,2415.0,2359.0,1069.0,10.0,56.0,2215.0,0.0,859.0,0.0,67.0,18.5,3.95,7.24,0.0,0.0,0.0,0.0,-1
+États-Unis d'Amérique,325084756.0,18266.0,18100.0,123.0,3692.0,333.6,21914.0,0.0,80.0,77.0,219.0,55.68,14.83,19.93,0.0,89.0,0.0,0.0,-1
